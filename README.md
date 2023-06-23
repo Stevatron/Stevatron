@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Stefan</h1>
-<h3 align="left">I am enthusiastic student, primaly focused on .NET development.</h3>
+<h3 align="left">I am enthusiastic student, primarily focused on .NET development.</h3>
 <h3 align="left">My goal is to become professional .NET developer, i am also exploring the world of reverse engineering.</h3>
 
 <hr>
